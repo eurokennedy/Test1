@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20230324/MODEL/" expressionLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/" namespace="https://kie.org/dmn/_DA0D0D5B-31CA-46BE-9EA8-717AC599A811" id="_644B8B33-6CFF-43BA-8831-49A6E7A9A57E" name="DMN_9CEF59B9-2496-47AF-9615-29AA3C29567A" xmlns:dmndi="https://www.omg.org/spec/DMN/20230324/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="https://kie.org/dmn/extensions/1.0">
+  <inputData name="Tasd" id="_88605A00-7661-4AC0-920E-515B4B6858C3">
+    <variable name="Tasd" id="_7712DFB3-5908-4C94-B51B-4DFE7A583660" typeRef="&lt;Undefined&gt;" />
+  </inputData>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_17EC5934-B6A7-4AE3-9368-366C654F02E4" name="Default DRD" useAlternativeInputDataShape="false">
+      <di:extension>
+        <kie:ComponentsWidthsExtension>
+          <kie:ComponentWidths />
+        </kie:ComponentsWidthsExtension>
+      </di:extension>
+      <dmndi:DMNShape id="_1ED45F7A-0160-4889-BF9E-85258DACB35D" dmnElementRef="_88605A00-7661-4AC0-920E-515B4B6858C3" isCollapsed="false" isListedInputData="false">
+        <dc:Bounds x="840" y="140" width="160" height="80" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>
